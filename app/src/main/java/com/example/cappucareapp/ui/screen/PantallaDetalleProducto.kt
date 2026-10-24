@@ -1,4 +1,4 @@
-package com.example.cappucareapp.ui
+package com.example.cappucareapp.ui.screen
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
